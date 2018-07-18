@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="title_activity_conv">Conv</string>
+    <string-array name="options">
+        <item value="kb_to_b">Kb to Bytes</item>
+        <item value="kb_to_mb">Kb to Mb</item>
+    </string-array>
+</resources>
